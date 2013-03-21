@@ -6,7 +6,7 @@ Description: Muestra una campaña de oiga.me como widget
 Author: Asociacion aLabs
 Version: 0.1
 Author URI: https://alabs.org
-License: GPLv3
+License: AGPLv3
  */
 
 
