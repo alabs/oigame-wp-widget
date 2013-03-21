@@ -1,7 +1,9 @@
+[![oiga.me](https://oiga.me/assets/logo-small.png "oiga.me")](https://oiga.me)
+
 oigame-wp-widget
 ===============
 
-Widget de Wordpress para (oiga.me)[https://oiga.me].
+Widget de [Wordpress](http://wordpress.org/) para [oiga.me](https://oiga.me)
 
 Instalación
 ===========
